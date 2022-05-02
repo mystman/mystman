@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mystman
 - 👀 I’m interested in software engineering and distributed computing
-- 🌱 I’m currently learning to work on Go projects, cloud native tools and frameworks mostly
+- 🌱 I’m currently study Go and Rust projects, cloud native tools and related frameworks mostly
 - 💞️ I’m looking to collaborate on some meaningfull projects to practice and learn.
 - 📫 How to reach me on mystman.com
 

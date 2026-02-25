@@ -1,29 +1,44 @@
-- 👋 Hi, I’m @mystman
-- 👀 I’m interested in software engineering and distributed computing
-- 🌱 I’m currently study Go and Rust projects, cloud native tools and related frameworks mostly
-- 💞️ I’m looking to collaborate on some meaningfull projects to practice and learn.
-- 📫 How to reach me on mystman.com
-<!---
-mystman/mystman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# mystman_
 
-<hr/>
-<div>
-    <div>
-            <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px"/>
-            <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px"/>
-            <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px"/>
-            <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px"/>
-        <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px"></a>
-    </div>
-<!--
-    <div style="float: right;">
-        <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px"></a>
-        <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:6px 4px"></a>
-        <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px"></a>
-        <a href="#"><img src="" alt="" style="vertical-align:top; margin:6px 4px"></a>
-        <a href="#"><img src="" alt="" style="vertical-align:top; margin:6px 4px"></a>  
-    </div>
--->
-</div>
+<p align="center">
+  <img src="https://mystman.com/assets/og-image.png" alt="Mystman" width="100%">
+</p>
+
+
+### 🔬 Focus & Research
+
+| Topic | Core Research & Impact |
+| :--- | :--- |
+| **Kubernetes for AI** | • **Architecting** specialized K8s clusters for end-to-end AI lifecycles.<br>• **Optimizing** resource efficiency for data-intensive training & inference.<br>• **Scaling** infrastructure to support high-throughput AI workloads. |
+| **LLM Distillation** | • **Transforming** large-scale models into efficient, domain-specific solutions.<br>• **Optimizing** model performance for high-concurrency production environments.<br>• **Researching** the balance between model accuracy and inference latency. |
+| **AI-Enhanced SE** | • **Bridging** the gap between rapid AI prototyping and production-grade systems.<br>• **Automating** development lifecycles using LLM-augmented workflows.<br>• **Ensuring** code maintainability and system integrity in AI-integrated stacks. |
+
+---
+
+### 🛠 Core Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Cloud_Native-00A2E8?style=for-the-badge&logo=cncf&logoColor=white" alt="Cloud Native" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Security-FFD700?style=for-the-badge&logo=google-cloud&logoColor=black" alt="Security" />
+</p>
+
+- **Languages:** Go (High-performance systems), Python (AI/ML & Automation).
+- **Architecture:** Distributed Microservices, Kubernetes Operators, and GitOps.
+- **Infrastructure:** Linux, Container Hardening, and Network Policy enforcement.
+
+---
+
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.mystman.com">
+    <img src="https://img.shields.io/badge/Website-mystman.com-ffd700?style=flat-square&logo=google-chrome&logoColor=black" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/mystman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>

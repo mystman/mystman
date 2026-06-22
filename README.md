@@ -5,13 +5,14 @@
 </p>
 
 
-### 🔬 Focus & Research
+### 🎯 What I Focus On
 
-| Topic | Core Research & Impact |
+| Topic | What it means in practice |
 | :--- | :--- |
-| **Kubernetes for AI** | • **Architecting** specialized K8s clusters for end-to-end AI lifecycles.<br>• **Optimizing** resource efficiency for data-intensive training & inference.<br>• **Scaling** infrastructure to support high-throughput AI workloads. |
-| **LLM Distillation** | • **Transforming** large-scale models into efficient, domain-specific solutions.<br>• **Optimizing** model performance for high-concurrency production environments.<br>• **Researching** the balance between model accuracy and inference latency. |
-| **AI-Enhanced SE** | • **Bridging** the gap between rapid AI prototyping and production-grade systems.<br>• **Automating** development lifecycles using LLM-augmented workflows.<br>• **Ensuring** code maintainability and system integrity in AI-integrated stacks. |
+| **Kubernetes Ecosystem** | Writing operators and controllers in Go, managing workload lifecycles, and the GitOps and observability practices that keep clusters maintainable rather than just running. |
+| **Go for Backend** | Concurrent backend services, APIs, and the small, sharp CLI tools that hold a platform together — code that's clear to read and boring to operate. |
+| **Kubernetes Security & eBPF** | Going deeper into cluster hardening, network policies, and workload isolation — and the eBPF-based tooling that makes networking, observability, and security visible at the kernel level. |
+| **AI-Assisted Engineering** | Using LLMs and coding agents in day-to-day work, with a bias toward what actually holds up. Less hype, more practice — where they genuinely help, and where they don't. |
 
 ---
 
@@ -25,7 +26,7 @@
   <img src="https://img.shields.io/badge/Security-FFD700?style=for-the-badge&logo=google-cloud&logoColor=black" alt="Security" />
 </p>
 
-- **Languages:** Go (High-performance systems), Python (AI/ML & Automation).
+- **Languages:** Go (high-performance backend systems), Python (automation & tooling).
 - **Architecture:** Distributed Microservices, Kubernetes Operators, and GitOps.
 - **Infrastructure:** Linux, Container Hardening, and Network Policy enforcement.
 
